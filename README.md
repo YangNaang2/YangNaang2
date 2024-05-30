@@ -2,7 +2,7 @@
 </div>  
   
 
-### Hi! I'm Jinwoo👋👋  
+#### Hi! I'm Jinwoo👋👋  
   
 - #### 🏫 Currently majoring in Artificial Intelligence.  
 <br/>  
