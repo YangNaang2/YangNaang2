@@ -13,7 +13,7 @@
 
 
 ## My Skill Set  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= py, tensorflow)](https://skillicons.dev)
 <table><tr><td valign="top" width="33%">
 
 <br/>  
