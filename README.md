@@ -19,9 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=notion,replit,discord)](https://skillicons.dev)
 <table><tr><td valign="top" width="33%">
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://instagram.com/real_w00rld" target="_blank">
@@ -42,12 +39,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
