@@ -8,7 +8,7 @@
 <br/>  
 
 ## My Skill Set  
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,vs_code)](https://skillicons.dev)
 
 ## Tool Set
 [![My Skills](https://skillicons.dev/icons?i=notion,replit,discord)](https://skillicons.dev)
