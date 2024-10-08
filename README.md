@@ -11,13 +11,10 @@
 - ## 🏫 Currently majoring in Artificial Intelligence.  
 <br/>  
 
-## My Skill Set  
+## Things I'm Using  
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,vscode,visualstudio,pytorch,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,replit,discord,windows)](https://skillicons.dev)
 
-
-[![My Skills](https://skillicons.dev/icons?i=notion,replit,discord)](https://skillicons.dev)
-## Tool Set
-[![My Skills](https://skillicons.dev/icons?i=notion,replit,discord)](https://skillicons.dev)
 <table><tr><td valign="top" width="33%">
 
 ## Connect with me  
