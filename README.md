@@ -13,7 +13,7 @@
 
 ## My Skill Set  
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,vscode,visualstudio,pytorch,anaconda)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=notion,replit,discord, window)](https://skillicons.dev)
 ## Tool Set
 [![My Skills](https://skillicons.dev/icons?i=notion,replit,discord)](https://skillicons.dev)
 <table><tr><td valign="top" width="33%">
