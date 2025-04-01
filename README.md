@@ -13,7 +13,7 @@
 
 ## Things I'm Using  
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,vscode,visualstudio,pytorch,anaconda)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=notion,replit,discord,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,discord,windows)](https://skillicons.dev)
 
 <table><tr><td valign="top" width="33%">
 
