@@ -28,5 +28,5 @@
 
 <!-- 인생 사진 -->
 <p align="center">
-  <img src="https://ibb.co/BRvp1X2" width="300" alt="Jinwoo Yang Life Photo"/>
+  <img src="<a href="https://ibb.co/BRvp1X2"><img src="https://i.ibb.co/qwhSZtY/2025-05-25-152815.png" alt="2025-05-25-152815" border="0"></a>" width="300" alt="Jinwoo Yang Life Photo"/>
 </p>
