@@ -28,5 +28,5 @@
 
 <!-- 인생 사진 -->
 <p align="center">
-  <img src="[https://your-image-url.com/your_photo.jpg](https://ibb.co/BRvp1X2)" width="300" alt="Jinwoo Yang Life Photo"/>
+  <img src="https://ibb.co/BRvp1X2" width="300" alt="Jinwoo Yang Life Photo"/>
 </p>
