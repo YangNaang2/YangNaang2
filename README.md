@@ -26,7 +26,7 @@
   <a href="https://github.com/YangNaang2"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-## 📸 A Glimpse of My Journey  
+## 📸 TIMELINE  
 <p align="center">
   <img src="https://raw.githubusercontent.com/YangNaang2/YangNaang2/main/LIFETIME" alt="Jinwoo Yang Life Photo"/>
 </p>
