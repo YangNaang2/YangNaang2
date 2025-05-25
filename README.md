@@ -25,3 +25,8 @@
   <a href="https://instagram.com/real_w00rld"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/YangNaang2"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
+
+<!-- 인생 사진 -->
+<p align="center">
+  <img src="[https://your-image-url.com/your_photo.jpg](https://ibb.co/BRvp1X2)" width="300" alt="Jinwoo Yang Life Photo"/>
+</p>
