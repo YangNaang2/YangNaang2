@@ -28,5 +28,5 @@
 
 ## 📸 A Glimpse of My Journey  
 <p align="center">
-  <img src="https://i.ibb.co/qwhSZtY/2025-05-25-152815.png" width="300" alt="Jinwoo Yang Life Photo"/>
+  <img src="https://i.ibb.co/qwhSZtY/2025-05-25-152815.png" width="1000" alt="Jinwoo Yang Life Photo"/>
 </p>
