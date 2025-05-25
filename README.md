@@ -26,7 +26,7 @@
   <a href="https://github.com/YangNaang2"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<!-- 인생 사진 -->
+## 📸 A Glimpse of My Journey  
 <p align="center">
-  <img src="<a href="https://ibb.co/BRvp1X2"><img src="https://i.ibb.co/qwhSZtY/2025-05-25-152815.png" alt="2025-05-25-152815" border="0"></a>" width="300" alt="Jinwoo Yang Life Photo"/>
+  <img src="https://i.ibb.co/qwhSZtY/2025-05-25-152815.png" width="300" alt="Jinwoo Yang Life Photo"/>
 </p>
