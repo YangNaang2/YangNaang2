@@ -30,3 +30,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/YangNaang2/YangNaang2/main/LIFETIME" alt="Jinwoo Yang Life Photo"/>
 </p>
+2025.09 정보처리기사 합격
+2025.11 SW중심우수작품 페스티벌(학교대표 출품)
