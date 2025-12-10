@@ -6,7 +6,7 @@
 
 ## ⚡ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda&perline=5" />
 </div>
 
 ---
