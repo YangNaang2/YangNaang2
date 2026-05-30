@@ -9,8 +9,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YangNaang2&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangNaang2&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
