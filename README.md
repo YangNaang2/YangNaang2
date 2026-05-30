@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=1000&height=60&lines=Hello,+I'm+Jinwoo!👋;AI+Engineer+and+ML+Enthusiast;Love+Deep+Learning+and+Trading+Bots!)](https://git.io/typing-svg)
 
----
-
-## ⚡ Tech Stack  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda&perline=5" />
-</div>
 
 ---
 
